@@ -54,7 +54,7 @@ def get_addresses(packet):
     return ("Unknown", "Unknown")
 
 
-# Display packet payload safely
+# Display packet payload 
 
 def display_payload(packet, show_payload=False):
 
